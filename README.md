@@ -14,7 +14,7 @@ driver
 - composer command
 
 ```bash
-composer require swoft/data-parser
+composer require mylib/data-parser
 ```
 
 ## Usage
